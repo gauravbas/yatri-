@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "144831233908",
+    "firebase_url": "https://yatri-7ac8f.firebaseio.com",
+    "project_id": "yatri-7ac8f",
+    "storage_bucket": "yatri-7ac8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144831233908:android:c383f7b9629be1a9",
+        "android_client_info": {
+          "package_name": "com.example.yatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144831233908-v71ob7u17s7033gm35dqtokvkov3vka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDa_5u5W519eQ0FkxQBda9VCUQhV8txg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144831233908-v71ob7u17s7033gm35dqtokvkov3vka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144831233908:android:35d2995173b5c67c",
+        "android_client_info": {
+          "package_name": "com.example.yatridrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144831233908-v71ob7u17s7033gm35dqtokvkov3vka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDa_5u5W519eQ0FkxQBda9VCUQhV8txg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144831233908-v71ob7u17s7033gm35dqtokvkov3vka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
